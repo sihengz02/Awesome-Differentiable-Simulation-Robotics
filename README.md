@@ -25,6 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Efficient Differentiable Simulation of Articulated Bodies, *ICML, 2021*. [[Paper](https://arxiv.org/abs/2109.07719)]
 * **Nimble**: Fast and feature-complete differentiable physics for articulated rigid bodies with contact, *RSS, 2021*. [[Paper](https://arxiv.org/pdf/2103.16021)]
 * **Dojo**: A Differentiable Simulator for Robotics, *CoRL, 2022*. [[Paper](https://arxiv.org/abs/2203.00806)]
+* **Brax**: A Differentiable Physics Engine for Large Scale Rigid Body Simulation, [[code](https://github.com/google/brax)]
 
 ---
 ## Cloth Simulation
